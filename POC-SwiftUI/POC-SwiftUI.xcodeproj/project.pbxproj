@@ -67,6 +67,16 @@
 			path = ListView;
 			sourceTree = "<group>";
 		};
+		7FE3B9A427C8198700B02E01 /* ResulView */ = {
+			isa = PBXGroup;
+			children = (
+				7F9D6E3627BE85B30080303B /* ResultView.swift */,
+				7FE3B99E27BEBE4600B02E01 /* ResulViewModel.swift */,
+				7FE3B9A127BEC87800B02E01 /* ResulViewCoodinator.swift */,
+			);
+			path = ResulView;
+			sourceTree = "<group>";
+		};
 		7FF3461927BE734400990FB2 = {
 			isa = PBXGroup;
 			children = (
@@ -80,9 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				7FF3461F27BE734500990FB2 /* POC_SwiftUIApp.swift */,
-				7F9D6E3627BE85B30080303B /* ResultView.swift */,
-				7FE3B99E27BEBE4600B02E01 /* ResulViewModel.swift */,
-				7FE3B9A127BEC87800B02E01 /* ResulViewCoodinator.swift */,
+				7FE3B9A427C8198700B02E01 /* ResulView */,
 				7F9D6E3527BE852D0080303B /* ListView */,
 				7FF3462127BE734900990FB2 /* Assets.xcassets */,
 			);
